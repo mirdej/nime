@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TCS40
+D Digital Output Magnetic Sensor
+$ENDCMP
+#
 #End Doc Library
